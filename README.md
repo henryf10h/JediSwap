@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JediSwap
 
 Clone of Uniswap V2 to Cairo. AMM for StarkNet.

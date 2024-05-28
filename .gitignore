@@ -136,5 +136,10 @@ dmypy.json
 
 node.json
 
+<<<<<<< HEAD
+=======
+.vscode/
+
+>>>>>>> fee_on_transfer_added/fee_on_transfer_added
 127.0.0.1.accounts.json
 127.0.0.1.deployments.txt
